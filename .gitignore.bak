@@ -1,0 +1,15 @@
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# maven ignore
+target/
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
